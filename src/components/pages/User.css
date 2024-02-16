@@ -1,0 +1,17 @@
+/* @import url('https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css'); */
+.content-heading {
+    padding: 0;
+    margin:0;
+  }
+  
+  .sidebar-menu li.collection-item {
+    cursor: pointer;
+  }
+  
+  .sidebar-menu li.collection-item:hover {
+    background-color: #EEE;
+  }
+  .user-img img {
+    border-radius: 50%;
+    width: 50%;
+  }
